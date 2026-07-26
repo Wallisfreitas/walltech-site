@@ -24,7 +24,7 @@ export default function AboutSection() {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="/manus-storage/about-team_12160dad.png"
+                src="/about-team.png"
                 alt="Ambiente profissional da WallTech Tecnologia"
                 className="w-full h-80 lg:h-[450px] object-cover"
               />

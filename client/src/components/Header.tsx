@@ -51,7 +51,7 @@ export default function Header() {
           className="flex items-center gap-2 group"
         >
           <img
-            src="/manus-storage/logo-walltech-official_f4b875cb.png"
+            src="/logo-walltech.png"
             alt="WallTech"
             className={`h-10 w-10 rounded-lg object-cover transition-transform duration-200 group-hover:scale-105 ${scrolled ? "opacity-100" : "opacity-100"}`}
           />

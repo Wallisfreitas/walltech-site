@@ -33,7 +33,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2.5 mb-4">
               <img
-                src="/manus-storage/logo-walltech-official_f4b875cb.png"
+                src="/logo-walltech.png"
                 alt="WallTech"
                 className="h-9 w-9 rounded-lg object-cover"
               />
