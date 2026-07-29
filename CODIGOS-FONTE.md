@@ -1105,7 +1105,7 @@ export default function ContactSection() {
                     </div>
                     <div>
                       <p className="text-sm font-medium text-[#000000] mb-0.5">E-mail</p>
-                      <a href="mailto:contato@walltechoficial.com.br" className="text-[#8B939E] text-sm hover:text-[#1686FF] transition-colors">contato@walltechoficial.com.br</a>
+                      <a href="mailto:contato.walltech@gmail.com" className="text-[#8B939E] text-sm hover:text-[#1686FF] transition-colors">contato.walltech@gmail.com</a>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
@@ -1217,11 +1217,11 @@ export default function Footer() {
             </div>
             <p className="text-[#C8CDD4] text-sm leading-relaxed max-w-sm mb-6">Venda, manutenção, suporte e locação de equipamentos para residências e empresas.</p>
             <div className="space-y-2.5 text-sm text-[#8B939E]">
-              <a href="mailto:contato@walltechoficial.com.br" className="flex items-center gap-2 hover:text-[#3AB5FF] transition-colors">
-                <Mail className="w-4 h-4" /> contato@walltechoficial.com.br
+              <a href="mailto:contato.walltechoficial@gmail.com" className="flex items-center gap-2 hover:text-[#3AB5FF] transition-colors">
+                <Mail className="w-4 h-4" /> contato.walltechoficial@gmail.com
               </a>
-              <a href="https://instagram.com/walltech011" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-[#3AB5FF] transition-colors">
-                <Instagram className="w-4 h-4" /> @walltech011
+              <a href="https://instagram.com/walltechoficial" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-[#3AB5FF] transition-colors">
+                <Instagram className="w-4 h-4" /> @walltechoficial
               </a>
               <a href={getWhatsAppUrl()} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-[#3AB5FF] transition-colors">
                 <MessageCircle className="w-4 h-4" /> (11) 96135-9962

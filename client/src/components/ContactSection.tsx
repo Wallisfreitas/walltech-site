@@ -73,8 +73,8 @@ export default function ContactSection() {
                     </div>
                     <div>
                       <p className="text-sm font-medium text-[#000000] mb-0.5">E-mail</p>
-                      <a href="mailto:contato@walltechoficial.com.br" className="text-[#8B939E] text-sm hover:text-[#1686FF] transition-colors">
-                        contato@walltechoficial.com.br
+                      <a href="mailto:contato.walltechoficial@gmail.com" className="text-[#8B939E] text-sm hover:text-[#1686FF] transition-colors">
+                        contato.walltechoficial@gmail.com
                       </a>
                     </div>
                   </div>
